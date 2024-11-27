@@ -7,12 +7,6 @@
 
 ---
 
-## 🎨 About Me
-- 💻 I specialize in creating **dynamic web applications** and solving problems using **cutting-edge technologies**.
-- 🧠 Currently exploring **Django**, **Vue.js**, and **Cloud Services**.
-- 🐳 Fun fact: I'm a fan of everything related to whales! 🐋
-
----
 
 ### 🛠️ Technologies & Tools
 
@@ -43,5 +37,3 @@ A lightweight backend **web application** demonstrating the use of Flask and Pyt
 - 🌐 **Website**: 
 
 ---
-
-✨ *Thank you for visiting my profile! Feel free to explore my repositories and connect.* 😊
