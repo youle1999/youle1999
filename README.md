@@ -1,8 +1,7 @@
 
 # 👋 Hi, I'm Tan Youle 👨‍💻
 
-🎓 **Student | Engineer | Developer**  
-💼 Currently intern at [Office Navi 株式会社](https://www.office-navi.jp) in Osaka, Japan  
+🎓 **Student | Engineer | Developer**   
 🌍 Passionate about **Full-Stack Development**, **AI**, and **Open Source Contributions**  
 
 ---
@@ -19,15 +18,7 @@
 | **70%**           | ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white) |
 | **50%**           | ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=mysql&logoColor=white) |
 
----
 
-## 🌟 Featured Projects
-
-### 🌐 [Vue.js Application](https://github.com/Youle1018/vue)
-A **modern web application** showcasing dynamic UI components using **Vue.js**.
-
-### 🚀 [Flaskweb](https://github.com/youle1999/flaskweb)
-A lightweight backend **web application** demonstrating the use of Flask and Python.
 
 ---
 
