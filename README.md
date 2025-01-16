@@ -23,7 +23,6 @@
 | 75%             | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?logo=gatsby&logoColor=white&style=flat) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat) |
 | 70%             | ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat) |
 | 60%             | ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat) ![AWS SDK](https://img.shields.io/badge/-AWS%20SDK-FF9900?logo=amazonaws&logoColor=white&style=flat) ![AWS CDK](https://img.shields.io/badge/-AWS%20CDK-FF9900?logo=amazonaws&logoColor=white&style=flat) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat) |
-| 50%             | ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=databricks&logoColor=white&style=flat) |![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat)
-
+| 50%             | ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=databricks&logoColor=white&style=flat) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat)|
 ---
 
