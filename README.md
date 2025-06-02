@@ -6,12 +6,6 @@
 
 ---
 
-### 🌟 **Current Internships**
-
-- **オフィスナビ株式会社**: Mainly focused on **web開発**, contributing to building and improving web-based platforms and ensuring seamless user experiences.  
-- **はつかぜ株式会社**: Working on **IoT** projects and developing **Android** and **iOS** applications to create innovative and impactful solutions.  
-
----
 
 ### 🛠️ Technologies & Tools
 
